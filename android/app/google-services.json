@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "396123494350",
+    "project_id": "obat-kita-edecf",
+    "storage_bucket": "obat-kita-edecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396123494350:android:3c2ac8a9969863a78d7d9f",
+        "android_client_info": {
+          "package_name": "com.obatkita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396123494350-cusfrcm342glsrps9aj15cr55d97mr3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.obatkita",
+            "certificate_hash": "82916f8681409c15c37c3dc270b79470a9d06576"
+          }
+        },
+        {
+          "client_id": "396123494350-jtepspi3inbtlc7kc903ku758pi94nuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHl-lYa58dpLAu0tPBb_is8O15jDySVvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396123494350-jtepspi3inbtlc7kc903ku758pi94nuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
